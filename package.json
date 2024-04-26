@@ -1,0 +1,13 @@
+{
+  "dependencies": { "@formkit/tempo": "^0.1.1", "google-spreadsheet": "^4.1.1" },
+  "devDependencies": {
+    "@types/google-spreadsheet": "^4.0.0",
+    "@types/bun": "latest"
+  },
+  "name": "event-notifier",
+  "module": "index.ts",
+  "type": "module",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
